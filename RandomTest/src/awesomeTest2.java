@@ -5,6 +5,7 @@ public class awesomeTest2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Git is awesome");
+		System.out.println("Git is awesome changes from Master");
 
 	}
 
