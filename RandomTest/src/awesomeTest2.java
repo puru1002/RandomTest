@@ -7,6 +7,8 @@ public class awesomeTest2 {
 		System.out.println("Git is awesome");
 		System.out.println("Git is awesome changes from Master");
 		System.out.println("Git is awesome. Changes from local");
+		System.out.println("Git is awesome. Another line from Master");
+		
 
 	}
 
